@@ -297,7 +297,6 @@ Specific format details, including rounds, playoff structure, and tiebreaker pro
 
 - **Published at [ibexgaming.org](https://ibexgaming.org)** no later than fourteen (14) days before competition start
 - **Communicated directly to all registered participants**
-- **Made available in both German and English** where feasible
 
 ---
 
@@ -1050,11 +1049,11 @@ These Rules may be amended only through the process specified in Section 1.7. Pr
 
 #### 13.3.1. Official Language
 
-The German version of these Rules shall be the official and authoritative version. Translations into other languages are provided for convenience only.
+The English version of these Rules shall be the official and authoritative version. Translations into other languages are provided for convenience only.
 
 #### 13.3.2. Interpretation
 
-In case of discrepancies between language versions, the German version shall prevail.
+In case of discrepancies between language versions, the English version shall prevail.
 
 ### 13.4. Effective Date and Transitional Provisions
 
