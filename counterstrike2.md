@@ -1,6 +1,6 @@
 # Counter-Strike 2 Rulebook – Ibex Gaming League
 
-**Version 1.2**  
+**Revision 2.0**  
 **Last Modified: [DATE]**  
 **Effective Date: [DATE]**
 
