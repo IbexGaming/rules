@@ -11,7 +11,7 @@
 This rulebook outlines the **Rocket League-specific rules and guidelines** for the Ibex Gaming League (IGL). It is a **supplement** to the **Ibex Gaming League General Rulebook**.
 
 ## Applicability
-All Rocket League competitions organized by IGL—including qualifiers, league play, and playoffs—are governed by:
+All Rocket League competitions organised by IGL—including qualifiers, league play, and playoffs—are governed by:
 
 1. Swiss Law  
 2. Competition-Specific Rules (per event)  
@@ -86,7 +86,7 @@ Formats can vary depending on the division or event.
 ### Rescheduling
 
 - **Qualifier & Tournament Matches:**  
-  Matches are **fixed in time** and cannot be rescheduled unless **explicitly authorized by the Tournament Administration**.
+  Matches are **fixed in time** and cannot be rescheduled unless **explicitly authorised by the Tournament Administration**.
 
 - **League Matches:**  
   Rescheduling is permitted **within the same calendar week**, with prior notice to the admins and agreement from both teams.
@@ -102,7 +102,7 @@ Formats can vary depending on the division or event.
 
 ## 4.1. Game Mode
 
-All Rocket League matches in the Ibex Gaming League are played in **3v3 Soccar Mode** using the **Esports Standard Settings**.
+All Rocket League matches in the Ibex Gaming League are played in **3v3 Soccer Mode** using the **Esports Standard Settings**.
 
 ## 4.2. Default Arena
 
@@ -138,11 +138,11 @@ All Rocket League matches in the Ibex Gaming League are played in **3v3 Soccar M
 
 All players must adhere to the **Ibex Gaming League General Code of Conduct**.
 
-Additional Rocket League specific points include:
+Additional Rocket League-specific points include:
 
 - **Match Chat:**  
   - Only use chat for necessary in-game communication (e.g., "gg", pause requests).  
-  - **Toxic behavior, spamming, or taunting is strictly prohibited.**
+  - **Toxic behaviour, spamming, or taunting is strictly prohibited.**
 
 - **Disconnects:**  
   - If a player disconnects during a match, the match must continue unless an **admin pauses the game** or both captains agree to restart.  
@@ -182,7 +182,7 @@ All **sanctions, warnings, and penalties** follow the procedures outlined in the
 Examples of Rocket League-specific violations include:
 
 - Use of **illegal game modifications or cheats** (e.g., visual mods affecting hitboxes, external tools)  
-- Use of **unauthorized controller scripts or macros**  
+- Use of **unauthorised controller scripts or macros**  
 - Intentional match disruption (e.g., deliberate disconnects, unsportsmanlike conduct)  
 - Failure to follow **pause and disconnect protocol**  
 - Abusing in-game mechanics in a way that violates fair play (e.g., exploits not intended by the game design)
@@ -208,7 +208,7 @@ By participating, players consent to:
 ## 7.2. Prizes & Payment
 
 All **prize handling, payment, and taxation procedures** follow the **Ibex Gaming League General Rulebook**.  
-Any Rocket League-specific prize adjustments will be communicated per event.
+Any Rocket League-specific prize adjustments will be communicated in each event.
 
 ## 7.3. Legal Terms
 
