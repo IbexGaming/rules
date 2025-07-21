@@ -34,7 +34,8 @@ By participating in any IGL competition, all participants ("**Competitors**," "*
 
 **Administrative decisions made by IGL officials regarding competition matters are final and binding, except where appeal rights are specifically provided in Section 8 (Appeals Process) or where prohibited by applicable Swiss law. This finality clause does not limit participants' statutory rights under Swiss consumer protection, data protection, or other mandatory legal provisions.**
 
-### 1.3. Applicability and Territorial Scope
+-### 1.3. Applicability and Territorial Scope
++### 1.4. Applicability and Territorial Scope
 
 These Rules apply to **all games and competitions organised by the Ibex Gaming League**, regardless of where participants are located, provided the competition or its effects occur within Switzerland or involve Swiss residents.
 
