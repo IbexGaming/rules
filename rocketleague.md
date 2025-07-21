@@ -217,6 +217,6 @@ All legal matters, including:
 - Liability  
 - Data Privacy  
 - Dispute Resolution  
-- Jurisdiction (Swiss Law, courts of Zurich)
+- Jurisdiction (Swiss Law, courts of Schaffhausen)
 
 are governed by the **Ibex Gaming League General Rulebook**.
