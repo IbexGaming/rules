@@ -1010,9 +1010,6 @@ Where provisions of these Rules conflict with mandatory Swiss law:
 - **Independent legal advice** is recommended for participants with questions about their rights
 
 ### 12.5. Severability and Waiver
-
-### 12.5. Severability and Waiver
-
 #### 12.5.1. Severability
 
 If any provision of these Rules is deemed invalid or unenforceable under Swiss law, the remaining provisions shall continue in full force and effect. Invalid provisions shall be replaced by valid provisions that most closely approximate the intended economic effect.
