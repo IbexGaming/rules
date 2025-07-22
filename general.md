@@ -828,7 +828,7 @@ Personal data may be transferred outside Switzerland only:
 IGL will:
 
 - **Notify the FDPIC** within 72 hours of becoming aware of high-risk breaches
-- **Inform affected participants** within 72 hours of breaches posing ha igh risk to rights and freedoms
+- **Inform affected participants** within 72 hours of breaches posing high risk to rights and freedoms
 - **Provide detailed information** about the breach, its likely consequences, and remedial measures
 - **Maintain breach logs** and conduct post-incident reviews
 
