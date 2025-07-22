@@ -34,14 +34,13 @@ By participating in any IGL competition, all participants ("**Competitors**," "*
 
 **Administrative decisions made by IGL officials regarding competition matters are final and binding, except where appeal rights are specifically provided in Section 8 (Appeals Process) or where prohibited by applicable Swiss law. This finality clause does not limit participants' statutory rights under Swiss consumer protection, data protection, or other mandatory legal provisions.**
 
--### 1.3. Applicability and Territorial Scope
-+### 1.4. Applicability and Territorial Scope
+### 1.4. Applicability and Territorial Scope
 
 These Rules apply to **all games and competitions organised by the Ibex Gaming League**, regardless of where participants are located, provided the competition or its effects occur within Switzerland or involve Swiss residents.
 
 Each game title shall have **its own specific rulebook**, and individual competitions may introduce **additional special regulations**. Such special rules shall be published on the respective competition pages at **[ibexgaming.org](https://ibexgaming.org)** no later than fourteen (14) days prior to the commencement of the relevant competition.
 
-### 1.4. Rule Hierarchy
+### 1.5. Rule Hierarchy
 
 In cases of conflict between rules, the following hierarchy applies (in descending order of precedence):
 
@@ -50,9 +49,18 @@ In cases of conflict between rules, the following hierarchy applies (in descendi
 3. **Game-Specific Rulebook** (e.g., CS2, Rocket League, R6)
 4. **Ibex Gaming League Official Rules** (this document)
 
-### 1.5. Administrative Structure
+### 1.6. Administrative Structure
 
 The administration of IGL competitions is structured as follows:
+
+### 1.7. Governance and Appeals
+… (existing content)
+
+### 1.8. Rule Modifications
+… (existing content)
+
+### 1.9. Unforeseen Circumstances
+… (existing content)
 
 - **Game Day Admin:** Responsible for operational decisions during live competition days
 - **Game Admin:** Oversees game-specific competitions and supervises Game Day Admins
