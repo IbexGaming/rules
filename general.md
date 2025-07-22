@@ -327,7 +327,7 @@ The following conduct is strictly prohibited and may result in immediate sanctio
 2. **Competitive Integrity Violations:**
 
    - Use of cheats, hacks, or unauthorised third-party software
-   - Exploitation of bugs or glitches is not explicitly permitted
+   - Exploitation of bugs or glitches is prohibited unless explicitly permitted by the administration
    - Interference with other players' games or network connections
    - Match-fixing, betting on own matches, or other manipulation of results
    - Sharing confidential match information or access codes
