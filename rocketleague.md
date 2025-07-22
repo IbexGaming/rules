@@ -35,11 +35,9 @@ By participating, all teams and players agree to:
   - **Reside in Switzerland** and possess at least a **B-permit**.
 
 ## 2.2. Foreign Player Exceptions
-
-
 The Tournament Administration may grant **special exemptions** to:
 
-- **Residents of the Principality of Liechtenstein**, or  
+- **Residents of the Principality of Liechtenstein**, or
 - **Players who have participated in at least 3 Swiss Rocket League events within the past 400 days and have been part of the same Swiss esports organisation for more than 3 consecutive months.**
 
 Requests for exemption must be submitted **before the competition starts** and are subject to **non-transferable approval**.
