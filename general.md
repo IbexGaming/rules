@@ -53,24 +53,14 @@ In cases of conflict between rules, the following hierarchy applies (in descendi
 
 The administration of IGL competitions is structured as follows:
 
-### 1.7. Governance and Appeals
-… (existing content)
-
-### 1.8. Rule Modifications
-… (existing content)
-
-### 1.9. Unforeseen Circumstances
-… (existing content)
-
 - **Game Day Admin:** Responsible for operational decisions during live competition days
 - **Game Admin:** Oversees game-specific competitions and supervises Game Day Admins
 - **Head Admin:** Oversees all game competitions, manages the administrative team, and serves as the final authority on competitive decisions
-- **IGL Esports Council:** Independent body responsible for competitive governance as defined in Section 1.6
+- **IGL Esports Council:**  Independent body responsible for competitive governance (see Section 1.7).
 
 **Note:** Individuals may hold multiple administrative roles depending on competition requirements and organisational structure.
 
-### 1.6. Governance and Appeals
-
+### 1.7. Governance and Appeals
 The **IGL Esports Council** operates as an independent oversight body responsible for:
 
 - Creating and maintaining rulebooks, formats, and fair play guidelines
@@ -79,19 +69,17 @@ The **IGL Esports Council** operates as an independent oversight body responsibl
 - Managing competitive calendars and approving game-specific settings
 - Ensuring competitive integrity and governance
 
-The Esports Council operates **independently within its defined scope** and **does not have authority over financial, legal, or administrative matters** of the IGL organisation. Its complete composition, authority, and procedures are defined in the IGL Statutes.
+The Esports Council operates **independently within its defined scope** and **does not have authority over financial, legal, or administrative matters** of the IGL organisation . Its complete composition, authority, and procedures are defined in the IGL Statutes.
 
-### 1.7. Rule Modifications
-
+### 1.8. Rule Modifications
 Ibex Gaming reserves the right to update these Rules, game-specific rulebooks, or competition-specific regulations at any time, subject to the following conditions:
 
-- **Participants shall be notified in writing of any material changes** no less than fourteen (14) days before implementation, except in cases of legal compliance or emergency
+- **Participants shall be notified in writing of any material changes** no less than fourteen (14) days prior to implementation, except in cases of legal compliance or emergency
 - Changes that materially affect competition outcomes shall **not be applied retroactively** unless required for legal compliance, competitive integrity, or fairness
 - Minor clarifications or technical corrections may be implemented immediately with appropriate notice
 
-### 1.8. Unforeseen Circumstances
-
-Where circumstances arise that are **not explicitly covered by these Rules**, the Head Admin and IGL Esports Council have the authority to make decisions in the best interest of competitive integrity, fairness, and legal compliance. Such decisions shall be documented and may form the basis for future rule amendments.
+### 1.9. Unforeseen Circumstances
+Where circumstances arise that are **not explicitly covered by these Rules**, the Head Admin and IGL Esports Council have authority to make decisions in the best interest of competitive integrity, fairness, and legal compliance. Such decisions shall be documented and may form the basis for future rule amendments.
 
 ---
 
@@ -118,7 +106,7 @@ All competitors must be at least **sixteen (16) years old** to participate in IG
 
 All competitors must possess the legal capacity to enter into binding agreements under applicable law or have appropriate legal representation through parents or guardians.
 
-#### 2.1.4. Game Publisher Compliance
+#### 2.1.3. Game Publisher Compliance
 
 All competitors must:
 
