@@ -36,6 +36,7 @@ By participating, all teams and players agree to:
 
 ## 2.2. Foreign Player Exceptions
 
+
 The Tournament Administration may grant **special exemptions** to:
 
 - **Residents of the Principality of Liechtenstein**, or  
@@ -129,6 +130,17 @@ All Rocket League matches in the Ibex Gaming League are played in **3v3 Soccer M
 - In **league play**, teams may set up their own lobbies if instructed by the admins.  
 - For **playoffs and streamed matches**, the **Tournament Administration will host the lobby**.  
 - **Lobby Name and Password** will be provided before the match starts.
+
+## 4.6. Timouts
+For any Best-of-Seven Match, Teams may request one (1) timeout between
+Games.
+
+Each Timeout will last for two (2) minutes. A Team must notify a Tournament Administrator
+immediately after the conclusion of a Game if it elects to use a Timeout. Tournament
+Administrators reserve the right to deny a Team a Timeout. At the conclusion of the Timeout,
+Tournament Administrators will confirm that each Team is ready to continue the Match before
+Gameplay can resume. For clarity, Timeouts cannot be used in any Best-of-Three Match or
+Best-of-Five Match or during Gameplay.
 
 ---
 
