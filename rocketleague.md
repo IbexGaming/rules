@@ -129,7 +129,7 @@ All Rocket League matches in the Ibex Gaming League are played in **3v3 Soccer M
 - For **playoffs and streamed matches**, the **Tournament Administration will host the lobby**.  
 - **Lobby Name and Password** will be provided before the match starts.
 
-## 4.6. Timouts
+## 4.6. Timeouts
 For any Best-of-Seven Match, Teams may request one (1) timeout between
 Games.
 
