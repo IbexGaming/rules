@@ -610,18 +610,6 @@ IGL is **not responsible for:**
 - Bank charges, processing fees, or intermediary bank fees
 - Tax advice or assistance with tax compliance in any jurisdiction
 
-**Tax Reporting:**
-
-- IGL will report prize payments to Swiss tax authorities as required by law
-- Recipients may receive tax documentation (forms 1042-S, 1099, or equivalent), where applicable
-- Prize payments exceeding statutory thresholds will be reported to the relevant authorities
-
-**Withholding Procedures:**
-
-- Applicable taxes may be **automatically deducted** from prize payments
-- Recipients may be eligible for **tax treaty benefits** upon submission of proper documentation
-- **Advance tax clearance** may be required for non-residents receiving substantial prizes
-
 #### 9.2.4. Payment Processing and Timing
 
 - Prize payments are processed within **sixty (60) days** after receipt of complete documentation
