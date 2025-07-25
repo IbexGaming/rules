@@ -1025,7 +1025,7 @@ These Rules, together with applicable game-specific rulebooks and competition-sp
 
 ### 13.2. Amendment Process
 
-These Rules may be amended only through the process specified in Section 1.7. Proposed amendments shall be subject to review by the IGL Esports Council before implementation.
+These Rules may be amended only through the process specified in Section 1.8. Proposed amendments shall be subject to review by the IGL Esports Council before implementation.
 
 ### 13.3. Translation and Language
 
