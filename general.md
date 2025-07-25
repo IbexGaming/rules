@@ -38,7 +38,7 @@ By participating in any IGL competition, all participants ("**Competitors**," "*
 
 These Rules apply to **all games and competitions organised by the Ibex Gaming League**, regardless of where participants are located, provided the competition or its effects occur within Switzerland or involve Swiss residents.
 
-Each game title shall have **its own specific rulebook**, and individual competitions may introduce **additional special regulations**. Such special rules shall be published on the respective competition pages at **[ibexgaming.org](https://ibexgaming.org)** no later than fourteen (14) days prior to the commencement of the relevant competition.
+Each game title shall have **its own specific rulebook**, and individual competitions may introduce **additional special regulations**. Such special rules shall be published on the respective competition pages at **[ibexgaming.org](https://ibexgaming.org)** prior to the commencement of the relevant competition.
 
 ### 1.5. Rule Hierarchy
 
@@ -74,7 +74,7 @@ The Esports Council operates **independently within its defined scope** and **do
 ### 1.8. Rule Modifications
 Ibex Gaming reserves the right to update these Rules, game-specific rulebooks, or competition-specific regulations at any time, subject to the following conditions:
 
-- **Participants shall be notified in writing of any material changes** no less than fourteen (14) days prior to implementation, except in cases of legal compliance or emergency
+- **Participants shall be notified in writing of any material changes** no less than seven (7) days prior to implementation, except in cases of legal compliance or emergency
 - Changes that materially affect competition outcomes shall **not be applied retroactively** unless required for legal compliance, competitive integrity, or fairness
 - Minor clarifications or technical corrections may be implemented immediately with appropriate notice
 
@@ -292,7 +292,7 @@ Unless otherwise specified, IGL competitions typically follow:
 
 Specific format details, including rounds, playoff structure, and tiebreaker procedures, shall be:
 
-- **Published at [ibexgaming.org](https://ibexgaming.org)** no later than fourteen (14) days before competition start
+- **Published at [ibexgaming.org](https://ibexgaming.org)** no later than seven (7) days before competition start
 - **Communicated directly to all registered participants**
 
 ---
@@ -556,7 +556,7 @@ Appeals shall be reviewed by:
 
 #### 8.4.3. Appeal Decision
 
-Appeal decisions shall be rendered within **fourteen (14) days** and are **final and binding**. No further appeals are permitted within the IGL system.
+Appeal decisions shall be rendered within **seven (7) days** and are **final and binding**. No further appeals are permitted within the IGL system.
 
 ---
 
@@ -649,7 +649,7 @@ Before prize forfeiture:
 
 #### 9.3.3. Forfeiture Appeals
 
-Recipients may appeal forfeiture decisions within **fourteen (14) days** by:
+Recipients may appeal forfeiture decisions within **seven (7) days** by:
 
 - Submitting a written appeal with supporting evidence
 - Requesting review by the IGL Esports Council or an independent reviewer
