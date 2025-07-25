@@ -1,14 +1,14 @@
 # Rocket League Rulebook – Ibex Gaming League
 
 **Revision 2.0**  
-**Last Modified: 22.07.2025**  
-**Effective Date: 25.07.2025**
+**Last Modified: 25.07.2025**  
+**Effective Date: 26.07.2025**
 
 ---
 
-# 1. Introduction
+## 1. Introduction
 
-This rulebook outlines the **Rocket League-specific rules and guidelines** for the Ibex Gaming League (IGL). It is a **supplement** to the **Ibex Gaming League General Rulebook**.
+This rulebook supplements the **Ibex Gaming League General Rulebook** and outlines all **Rocket League-specific regulations**.
 
 ## Applicability
 All Rocket League competitions organised by IGL—including qualifiers, league play, and playoffs—are governed by:
