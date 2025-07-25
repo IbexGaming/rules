@@ -1,8 +1,8 @@
 # Ibex Gaming League Official Rules
 
 **Revision 2.0**  
-**Last Modified: 22.07.2025**  
-**Effective Date: 25.07.2025**
+**Last Modified: 25.07.2025**  
+**Effective Date: 26.07.2025**
 
 ---
 
