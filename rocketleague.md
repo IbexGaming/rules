@@ -25,46 +25,34 @@ By participating, all teams and players agree to:
 
 ---
 
-# 2. Team & Player Regulations
+## 2. Team & Player Regulations
 
-## 2.1. Team Composition
+### 2.1 Team Composition
+- Each team must consist of **3 starting players**.
+- **1 substitute player** may be registered in addition.
 
-- Each team consists of **3 starting players** and may register **1 substitute**.
-- For all Rocket League competitions, at least **2 of the 3 playing individuals** must:
-  - **Hold Swiss citizenship**, or  
-  - **Reside in Switzerland** and possess at least a **B-permit**.
+### 2.2 Swiss Residency Requirement
+At least **2 of the 3 playing individuals** must:
+- Hold **Swiss citizenship**, or  
+- Reside in Switzerland and possess at least a **B-permit**.
 
-## 2.2. Foreign Player Exceptions
+### 2.3 Foreign Player Exceptions
 The Tournament Administration may grant **special exemptions** to:
-
-- **Residents of the Principality of Liechtenstein**, or
+- **Residents of the Principality of Liechtenstein**, or  
 - **Players who have participated in at least 3 Swiss Rocket League events within the past 400 days and have been part of the same Swiss esports organisation for more than 3 consecutive months.**
 
-Requests for exemption must be submitted **before the competition starts** and are subject to **non-transferable approval**.
+### 2.4 Account Registration
+- All players must register their **primary Epic Games ID** (and Steam ID, if applicable).
+- **Account sharing, smurfing, or multi-teaming** is strictly prohibited.
 
-## 2.3. Account Registration
+### 2.5 Substitutions
+- Teams may use their registered substitute **before a match**.
+- **Emergency substitutes** require prior **admin approval**.
 
-- All players must register their **primary Epic Games ID** and **Steam ID (if applicable)** before the event.
-- **Account sharing, smurfing, or multi-teaming is strictly prohibited**.
-
-## 2.4. Substitutions
-
-### Pre-Match Substitutions:
-
-- Teams may swap in their registered substitute **before a match starts**, as long as the admin is informed.
-
-### Emergency Substitutions:
-
-- Emergency substitutes **outside the registered roster** require **prior approval from the tournament admins**.
-- Emergencies include health issues, technical failures, or force majeure situations.
-
-## 2.5. Roster Locks
-
-- All teams that qualify for a seasonal league must retain the **same roster submitted during the qualifier**.
-- Teams are permitted to make **up to two player substitutions** before the **season-specific roster lock deadline**.
-- After this deadline, any further changes must comply with the **Ibex Gaming League General Rulebook procedures**.
-
----
+### 2.6 Roster Locks
+- Teams must retain the roster submitted during the **qualifier**.
+- Up to **two (2) player substitutions** may be made before the **season-specific roster lock deadline**.
+- After this deadline, all roster changes must follow the official procedure.
 
 # 3. Competition Format
 
