@@ -1,8 +1,8 @@
 # Ibex Gaming League Official Rules
 
-**Revision 2.0**  
-**Last Modified: 25.07.2025**  
-**Effective Date: 26.07.2025**
+**Revision 2.1**  
+**Last Modified: 06.08.2025**  
+**Effective Date: 07.08.2025**
 
 ---
 
@@ -295,6 +295,31 @@ Specific format details, including rounds, playoff structure, and tiebreaker pro
 - **Published at [ibexgaming.org](https://ibexgaming.org)** no later than seven (7) days before competition start
 - **Communicated directly to all registered participants**
 
+### 4.4. Rescheduling of Matches
+
+#### 4.4.1. Regular Season Rescheduling
+
+In Regular Seasons of Leagues, matches may be rescheduled if both teams mutually agree on a valid date and time that meets the following requirements:
+
+- Matches generally must be played no later than the officially scheduled date and time
+- Matches cannot be played before the start of the competition week (Monday 00:00 Swiss Time)
+- Matches of the first week may be scheduled in the week after, but not before the official start of the season
+
+#### 4.4.2. Rescheduling Process
+
+All rescheduled matches must be announced to the competition administration at least 48 hours before the new match time.
+
+#### 4.4.3. Rescheduling Limitations
+
+If teams cannot reach an agreement on rescheduling, the match must be played on the originally scheduled date and time.
+
+#### 4.4.4. Emergency Rescheduling
+
+In emergency situations (technical issues, medical emergencies, etc.), teams may request last-minute rescheduling by contacting the administration immediately.
+
+Administration reserves the right to deny unreasonable rescheduling requests or those that may compromise the competitive integrity of the tournament. 
+Matches which are planned to be streamed by the Ibex Gaming League are generally not allowed to be rescheduled.
+
 ---
 
 ## 5. Competition Rules and Fair Play
@@ -408,6 +433,20 @@ Spectator or third-party streams require:
 #### 6.1.3. Limitation of Liability
 
 IGL accepts **no responsibility for technical issues, stream sniping, security breaches, or other problems** related to personal or third-party broadcasts. Participants stream at their own risk.
+
+#### 6.1.4. Partnered Community Streams
+
+The Ibex Gaming League reserves the right to grant special permission to "Partnered Community Broadcasters" through partnership agreements. These partnerships may include:
+
+- **Reduced or waived delay requirements**
+- **Exclusive broadcasting rights for specific matches**
+- **Use of official IGL broadcast assets and graphics**
+- **Co-branding opportunities with the IGL**
+- **Revenue sharing arrangements where applicable**
+
+This list is illustrative and non-exhaustive, no aforementioned special permissions are guaranteed or required to be granted, and the specific terms and conditions of any such permissions shall be exclusively defined within the executed partnership agreement between the IGL and the individual Partnered Community Broadcaster.
+
+Partners must adhere to quality standards and broadcasting guidelines as specified in their partnership agreement.
 
 ### 6.2. Official Broadcasting Rights
 
