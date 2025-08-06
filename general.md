@@ -444,6 +444,8 @@ The Ibex Gaming League reserves the right to grant special permission to "Partne
 - **Co-branding opportunities with the IGL**
 - **Revenue sharing arrangements where applicable**
 
+This list is illustrative and non-exhaustive, no aforementioned special permissions are guaranteed or required to be granted, and the specific terms and conditions of any such permissions shall be exclusively defined within the executed partnership agreement between the IGL and the individual Partnered Community Broadcaster.
+
 Partners must adhere to quality standards and broadcasting guidelines as specified in their partnership agreement.
 
 ### 6.2. Official Broadcasting Rights
