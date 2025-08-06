@@ -103,7 +103,7 @@ All Rocket League matches in the Ibex Gaming League are played in **3v3 Soccar M
 
 ### 4.1 Player Streaming
 
-- Players may stream their **own point-of-view (POV)** gameplay with a **minimum 1-minute delay**.
+- Players may stream their **own point-of-view (POV)** gameplay with a **minimum 2-minute delay**.
 - Streams must include **"Ibex Gaming League"** in the title.
 - **Official broadcasts take precedence** over any personal stream. Players must comply with admin instructions regarding media restrictions.
 
