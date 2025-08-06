@@ -273,18 +273,6 @@ IGL may utilise any of the following competition formats, as specified in compet
 - **Regular Season:** Extended competition over multiple weeks/months
 - **Playoff System:** Elimination tournament among top-performing teams
 
-#### 6.1.4. Partnered Community Streams
-
-The Ibex Gaming League reserves the right to grant special permission to "Partnered Community Broadcasters" through partnership agreements. These partnerships may include:
-
-- **Reduced or waived delay requirements**
-- **Exclusive broadcasting rights for specific matches**
-- **Use of official IGL broadcast assets and graphics**
-- **Co-branding opportunities with the IGL**
-- **Revenue sharing arrangements where applicable**
-
-Partners must adhere to quality standards and broadcasting guidelines as specified in their partnership agreement.
-
 ### 4.2. Standard IGL Structure
 
 Unless otherwise specified, IGL competitions typically follow:
@@ -445,6 +433,18 @@ Spectator or third-party streams require:
 #### 6.1.3. Limitation of Liability
 
 IGL accepts **no responsibility for technical issues, stream sniping, security breaches, or other problems** related to personal or third-party broadcasts. Participants stream at their own risk.
+
+#### 6.1.4. Partnered Community Streams
+
+The Ibex Gaming League reserves the right to grant special permission to "Partnered Community Broadcasters" through partnership agreements. These partnerships may include:
+
+- **Reduced or waived delay requirements**
+- **Exclusive broadcasting rights for specific matches**
+- **Use of official IGL broadcast assets and graphics**
+- **Co-branding opportunities with the IGL**
+- **Revenue sharing arrangements where applicable**
+
+Partners must adhere to quality standards and broadcasting guidelines as specified in their partnership agreement.
 
 ### 6.2. Official Broadcasting Rights
 
