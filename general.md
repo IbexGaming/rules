@@ -302,7 +302,7 @@ Specific format details, including rounds, playoff structure, and tiebreaker pro
 In Regular Seasons of Leagues, matches may be rescheduled if both teams mutually agree on a valid date and time that meets the following requirements:
 
 - Matches generally must be played no later than the officially scheduled date and time
-- Matches cannot be played before the start of the competition week (Monday 00:00)
+- Matches cannot be played before the start of the competition week (Monday 00:00 Swiss Time)
 - Matches of the first week may be scheduled in the week after, but not before the official start of the season
 
 #### 4.4.2. Rescheduling Process
