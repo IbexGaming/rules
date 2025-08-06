@@ -307,7 +307,7 @@ In Regular Seasons of Leagues, matches may be rescheduled if both teams mutually
 
 #### 4.4.2. Rescheduling Process
 
-All rescheduled matches must be announced to the competition administration at least 24 hours before the new match time.
+All rescheduled matches must be announced to the competition administration at least 48 hours before the new match time.
 
 #### 4.4.3. Rescheduling Limitations
 
