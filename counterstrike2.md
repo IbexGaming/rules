@@ -157,6 +157,16 @@ CS2 Clarifications:
 - Personal streams require a **2-minute delay**
 - All personal streams must include "**Ibex Gaming League**" in the title and the **"IGL" tag** on Twitch
 
+### 5.3. Coaching
+
+Coaching includes any strategic advice, callouts, or tactical guidance provided to players.
+Coaching during active play and during technical pauses is prohibited. Coaches may talk to the team during tactical breaks (timeouts), in the warmup phase and between maps.  
+
+Penalties may include but are not limited to:
+- Warning (First offense in a competition)
+- Loss of affected rounds (Repeated offense in a competition)
+- Forfeit of the game with the worst result possible (Repeated offense in a match after warning)
+
 ---
 
 ## 6. Enforcement & Sanctions
