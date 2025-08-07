@@ -1,8 +1,8 @@
 # Ibex Gaming League Official Rules
 
-**Revision 2.0**  
-**Last Modified: 25.07.2025**  
-**Effective Date: 26.07.2025**
+**Revision 2.1**  
+**Last Modified: 06.08.2025**  
+**Effective Date: 07.08.2025**
 
 ---
 
@@ -302,7 +302,7 @@ Specific format details, including rounds, playoff structure, and tiebreaker pro
 In Regular Seasons of Leagues, matches may be rescheduled if both teams mutually agree on a valid date and time that meets the following requirements:
 
 - Matches generally must be played no later than the officially scheduled date and time
-- Matches cannot be played before the start of the competition week (Monday 00:00)
+- Matches cannot be played before the start of the competition week (Monday 00:00 Swiss Time)
 - Matches of the first week may be scheduled in the week after, but not before the official start of the season
 
 #### 4.4.2. Rescheduling Process
@@ -443,6 +443,8 @@ The Ibex Gaming League reserves the right to grant special permission to "Partne
 - **Use of official IGL broadcast assets and graphics**
 - **Co-branding opportunities with the IGL**
 - **Revenue sharing arrangements where applicable**
+
+This list is illustrative and non-exhaustive, no aforementioned special permissions are guaranteed or required to be granted, and the specific terms and conditions of any such permissions shall be exclusively defined within the executed partnership agreement between the IGL and the individual Partnered Community Broadcaster.
 
 Partners must adhere to quality standards and broadcasting guidelines as specified in their partnership agreement.
 
