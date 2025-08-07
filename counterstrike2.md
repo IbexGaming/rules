@@ -1,8 +1,8 @@
 # Counter-Strike 2 Rulebook – Ibex Gaming League
 
-**Revision 2.0**  
-**Last Modified: 25.07.2025**  
-**Effective Date: 26.07.2025**
+**Revision 2.1**  
+**Last Modified: 07.08.2025**  
+**Effective Date: 08.07.2025**
 
 ---
 
@@ -83,30 +83,57 @@ The current map pool is always confirmed on **[ibexgaming.org](https://ibexgamin
 
 ### 4.3. Veto Procedure
 
-#### BO1 (Groups):
-1. Higher seed picks veto order  
-2. A bans map  
-3. B bans map  
-4. A bans map  
-5. B bans map  
-6. A bans map  
+#### 4.3.1. Pick-Ban-System
+Team A is the team that is listed first on the match page (typically the higher seeded team at the start of the stage).
+
+#### Best-of-1: 
+1. A bans map  
+2. B bans map  
+3. A bans map  
+4. B bans map  
+5. A bans map  
+6. B bans map  
 7. Remaining map is played
 
-#### BO3 (Playoffs):
-1. Higher seed picks veto order  
-2. A bans map  
-3. B bans map  
-4. A picks map 1  
-5. B picks map 2  
-6. A bans one map  
+#### Best-of-2:
+1. A bans map
+2. B bans map
+3. A picks map 1
+4. B picks map 2
+
+#### Best-of-3:
+1. A bans map  
+2. B bans map  
+3. A picks map 1
+4. B picks map 2
+5. A bans map    
+6. B bans map
 7. Remaining map is decider
+
+### Best-of-5:
+1. A bans map  
+2. B bans map  
+3. A picks map 1  
+4. B picks map 2  
+5. A picks map 3  
+6. B picks map 4  
+7. Remaining map is decider
+
+#### 4.3.2. Side Selection
+
+##### For Remaining Maps:
+- A knife round will be conducted at the start of the match
+- The winner of the knife round selects which side their team will start on
+
+##### For Picked Maps:
+- The team that did not pick the map selects the starting side
 
 ### 4.4. Match Start Protocol
 
-- Both teams must be ready **15 minutes before match time**  
-- In playoffs, admins will host the match; in groups, teams may set up their own lobbies if instructed  
-- Teams may request admin assistance for lobby creation  
-- No team may take sides until all players are connected
+- Both teams must be ready **15 minutes before match time**
+- Ibex Gaming League will provide server IPs to team captains at least 30 minutes before scheduled match time
+- In exceptional circumstances, teams may request admin assistance for alternative server arrangements
+- Third-party provided servers might be used (e.g. Faceit) if necessary
 
 ---
 
@@ -129,6 +156,16 @@ Refer to the **Ibex Gaming League General Rulebook** for streaming and media rul
 CS2 Clarifications:
 - Personal streams require a **2-minute delay**
 - All personal streams must include "**Ibex Gaming League**" in the title and the **"IGL" tag** on Twitch
+
+### 5.3. Coaching
+
+Coaching includes any strategic advice, callouts, or tactical guidance provided to players.
+Coaching during active play and during technical pauses is prohibited. Coaches may talk to the team during tactical breaks (timeouts), in the warmup phase and between maps.  
+
+Penalties may include but are not limited to:
+- Warning (First offense in a competition)
+- Loss of affected rounds (Repeated offense in a competition)
+- Forfeit of the game with the worst result possible (Repeated offense in a match after warning)
 
 ---
 
