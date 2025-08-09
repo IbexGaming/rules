@@ -102,7 +102,7 @@ Team A is the team that is listed first on the match page (typically the higher 
 4. B bans map
 5. A picks map 1
 6. B picks map 2
-
+7. Decider map will not be played
 #### Best-of-3:
 1. A bans map  
 2. B bans map  
