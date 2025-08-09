@@ -1,8 +1,8 @@
 # Counter-Strike 2 Rulebook – Ibex Gaming League
 
-**Revision 2.1**  
-**Last Modified: 07.08.2025**  
-**Effective Date: 08.07.2025**
+**Revision 2.2**  
+**Last Modified: 08.08.2025**  
+**Effective Date: 09.07.2025**
 
 ---
 
@@ -98,8 +98,10 @@ Team A is the team that is listed first on the match page (typically the higher 
 #### Best-of-2:
 1. A bans map
 2. B bans map
-3. A picks map 1
-4. B picks map 2
+3. A bans map
+4. B bans map
+5. A picks map 1
+6. B picks map 2
 
 #### Best-of-3:
 1. A bans map  
@@ -161,6 +163,8 @@ CS2 Clarifications:
 
 Coaching includes any strategic advice, callouts, or tactical guidance provided to players.
 Coaching during active play and during technical pauses is prohibited. Coaches may talk to the team during tactical breaks (timeouts), in the warmup phase and between maps.  
+
+Coaching rules only apply during offline events.
 
 Penalties may include but are not limited to:
 - Warning (First offense in a competition)
