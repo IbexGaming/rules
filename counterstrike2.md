@@ -1,8 +1,8 @@
 # Counter-Strike 2 Rulebook – Ibex Gaming League
 
-**Revision 2.2**  
-**Last Modified: 08.08.2025**  
-**Effective Date: 09.07.2025**
+**Revision 2.3**  
+**Last Modified: 18.08.2025**  
+**Effective Date: 20.07.2025**
 
 ---
 
@@ -57,15 +57,13 @@ Standard formats may include round-robin groups, elimination brackets, or mixed 
 
 | Setting          | Value               |
 |-----------------|---------------------|
-| Game Mode        | Competitive 5v5     |
-| Map Pool         | Active Duty (current)|
-| Starting Money   | $800                |
-| Round Time       | 1:55                |
-| Freeze Time      | 20 sec              |
-| Bomb Timer       | 40 sec              |
-| Timeouts         | 4 × 30 sec per team |
-| Overtime         | MR3, $10,000 start  |
-| Side Selection   | Knife Round         |
+| Rounds          | Best of 24      |
+| Round Time      | 1:55            |
+| Starting Money  | $800            |
+| Freeze Time     | 20 sec          |
+| Bomb Timer      | 40 sec          |
+| Overtime        | MR3             |
+| Overtime Money  | $10,000         |
 
 ### 4.2. Map Pool
 
@@ -86,7 +84,7 @@ The current map pool is always confirmed on **[ibexgaming.org](https://ibexgamin
 #### 4.3.1. Pick-Ban-System
 Team A is the team that is listed first on the match page (typically the higher seeded team at the start of the stage).
 
-#### Best-of-1: 
+##### Best-of-1:
 1. A bans map  
 2. B bans map  
 3. A bans map  
@@ -95,7 +93,7 @@ Team A is the team that is listed first on the match page (typically the higher 
 6. B bans map  
 7. Remaining map is played
 
-#### Best-of-2:
+##### Best-of-2:
 1. A bans map
 2. B bans map
 3. A bans map
@@ -103,7 +101,8 @@ Team A is the team that is listed first on the match page (typically the higher 
 5. A picks map 1
 6. B picks map 2
 7. Decider map will not be played
-#### Best-of-3:
+
+##### Best-of-3:
 1. A bans map  
 2. B bans map  
 3. A picks map 1
@@ -112,7 +111,7 @@ Team A is the team that is listed first on the match page (typically the higher 
 6. B bans map
 7. Remaining map is decider
 
-### Best-of-5:
+##### Best-of-5:
 1. A bans map  
 2. B bans map  
 3. A picks map 1  
@@ -133,9 +132,20 @@ Team A is the team that is listed first on the match page (typically the higher 
 ### 4.4. Match Start Protocol
 
 - Both teams must be ready **15 minutes before match time**
-- Ibex Gaming League will provide server IPs to team captains at least 30 minutes before scheduled match time
+- Ibex Gaming League will provide server IPs to team captains at least 30 minutes before the scheduled match time
 - In exceptional circumstances, teams may request admin assistance for alternative server arrangements
 - Third-party provided servers might be used (e.g. Faceit) if necessary
+
+### 4.5 Timeout
+To call a timeout, participants have to use the in-game vote system (ESC → Call Vote → Call
+Tactical Timeout). A timeout lasts thirty (30) seconds. Participants are allowed to take all
+three timeouts at once by calling them all individually once the previous timeout expires.
+
+If a map reaches overtime (OT), all remaining timeouts will be removed and each team will
+receive one (1) timeout to be used in that OT (OT1) period. If the map progresses to another
+OT (OT2), the same process will happen - any remaining timeouts will be removed, and each
+team will receive one (1) more timeout. Banked timeouts cannot be stacked higher than one
+(1) in overtime.
 
 ---
 
@@ -166,10 +176,10 @@ Coaching during active play and during technical pauses is prohibited. Coaches m
 
 Coaching rules only apply during offline events.
 
-Penalties may include but are not limited to:
-- Warning (First offense in a competition)
-- Loss of affected rounds (Repeated offense in a competition)
-- Forfeit of the game with the worst result possible (Repeated offense in a match after warning)
+Penalties may include, but are not limited to:
+- Warning (First offence in a competition)
+- Loss of affected rounds (Repeated offence in a competition)
+- Forfeit of the game with the worst result possible (Repeated offence in a match after a warning)
 
 ---
 
@@ -177,7 +187,7 @@ Penalties may include but are not limited to:
 
 All sanctions follow the **Ibex Gaming League General Rulebook Section 7**.
 
-Game-specific violations (e.g., exploits, use of unauthorized scripts) will be addressed by the **CS2 Admin Team** on a case-by-case basis.
+Game-specific violations (e.g., exploits, use of unauthorised scripts) will be addressed by the **CS2 Admin Team** on a case-by-case basis.
 
 ---
 
