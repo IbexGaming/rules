@@ -1,20 +1,20 @@
-# Counter-Strike 2 Rulebook – Ibex Gaming League
+# Counter-Strike 2 Rulebook – Ibex Gaming Circuit
 
-**Revision 2.3**  
-**Last Modified: 18.08.2025**  
+**Revision 3.0**  
+**Last Modified: 22.12.2025**  
 **Effective Date: 20.07.2025**
 
 ---
 
 ## 1. Introduction
 
-This rulebook supplements the **Ibex Gaming League General Rulebook** and outlines all **CS2-specific regulations**.
+This rulebook supplements the **Ibex Gaming Circuit General Rulebook** and outlines all **CS2-specific regulations**.
 
 ### Rule Hierarchy:
 1. Swiss Law  
 2. Competition-Specific Rules (per event)  
 3. **CS2 Rulebook (this document)**  
-4. **Ibex Gaming League General Rulebook**
+4. **Ibex Gaming Circuit General Rulebook**
 
 For general eligibility, conduct, media, data, prizes, and legal terms, refer to the [General Rulebook](https://ibexgaming.org/rules/general).
 
@@ -138,8 +138,7 @@ Team A is the team that is listed first on the match page (typically the higher 
 
 ### 4.5 Timeout
 To call a timeout, participants have to use the in-game vote system (ESC → Call Vote → Call
-Tactical Timeout). A timeout lasts thirty (30) seconds. Participants are allowed to take all
-three timeouts at once by calling them all individually once the previous timeout expires.
+Tactical Timeout) or have to use the ".tac" command in the in-game chat. A timeout lasts thirty (30) seconds. Participants are allowed to take all three timeouts at once by calling them all individually once the previous timeout expires.
 
 If a map reaches overtime (OT), all remaining timeouts will be removed and each team will
 receive one (1) timeout to be used in that OT (OT1) period. If the map progresses to another
@@ -163,11 +162,11 @@ team will receive one (1) more timeout. Banked timeouts cannot be stacked higher
 
 ### 5.2. Streaming & Media
 
-Refer to the **Ibex Gaming League General Rulebook** for streaming and media rules.
+Refer to the **Ibex Gaming Circuit General Rulebook** for streaming and media rules.
 
 CS2 Clarifications:
 - Personal streams require a **2-minute delay**
-- All personal streams must include "**Ibex Gaming League**" in the title and the **"IGL" tag** on Twitch
+- All personal streams must include "**Ibex Gaming Circuit**" in the title and the **"IGC" tag** on Twitch
 
 ### 5.3. Coaching
 
@@ -185,7 +184,7 @@ Penalties may include, but are not limited to:
 
 ## 6. Enforcement & Sanctions
 
-All sanctions follow the **Ibex Gaming League General Rulebook Section 7**.
+All sanctions follow the **Ibex Gaming Circuit General Rulebook Section 7**.
 
 Game-specific violations (e.g., exploits, use of unauthorised scripts) will be addressed by the **CS2 Admin Team** on a case-by-case basis.
 
@@ -193,4 +192,4 @@ Game-specific violations (e.g., exploits, use of unauthorised scripts) will be a
 
 ## 7. Legal & Media Terms
 
-All **prizes, media rights, data privacy, and legal terms** are governed by the **Ibex Gaming League General Rulebook**.
+All **prizes, media rights, data privacy, and legal terms** are governed by the **Ibex Gaming Circuit General Rulebook**.
