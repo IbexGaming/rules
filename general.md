@@ -174,8 +174,7 @@ Teams may represent organisations subject to the following restrictions:
 #### 2.4.1. Initial Roster Submission
 
 Teams must submit complete rosters before competition commencement, including all substitutes as defined by game-specific rules.
-Roster changes during the competition may be allowed in accordance to competition specific rules. 
-
+Roster changes during the competition may be allowed in accordance with competition-specific rules.
 #### 2.4.2. Emergency Substitutions
 
 Emergency substitutions require **advance approval from tournament administration** and are permitted only for:
