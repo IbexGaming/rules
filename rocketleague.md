@@ -30,7 +30,7 @@ By participating, all teams and players agree to:
 
 ### 2.1 Team Composition
 - Each team must consist of **3 starting players**.
-- **1 substitute player** may be registered in addition.
+- **Substitute players** may be registered in addition in accordance with the maximum number of players allowed per competition.
 
 ### 2.2 Swiss Residency Requirement
 At least **2 of the 3 playing individuals** must:
