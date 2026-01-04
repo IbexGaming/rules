@@ -138,7 +138,7 @@ Unless otherwise specified in game-specific or competition-specific rules, **the
 
 #### 2.2.2. Foreign Player Exceptions
 
-Non-Swiss players may request exceptions, where explicitly allowed in game-specific or competition-specific rules, by demonstrating:
+Non-Swiss players may request exceptions (where such exceptions are permitted by game-specific or competition-specific rules) by demonstrating:
 
 - **Minimum twelve (12) months of continuous participation** in Swiss esports community events
 - **Current membership in a recognised Swiss esports organisation**
