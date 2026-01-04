@@ -1,8 +1,8 @@
 # Rocket League Rulebook – Ibex Gaming League
 
-**Revision 2.0**  
-**Last Modified: 25.07.2025**  
-**Effective Date: 26.07.2025**
+**Revision 2.1**  
+**Last Modified: 23.12.2025**
+**Effective Date: 01.01.2026**
 
 ---
 
