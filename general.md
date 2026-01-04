@@ -1,8 +1,8 @@
 # Ibex Gaming League Official Rules
 
-**Revision 2.1**  
-**Last Modified: 06.08.2025**  
-**Effective Date: 07.08.2025**
+**Revision 2.2**  
+**Last Modified: 23.12.2025**  
+**Effective Date: 01.01.2026**
 
 ---
 
@@ -134,11 +134,11 @@ All competitors must register their **primary gaming account(s)** for each relev
 
 #### 2.2.1. Standard Policy
 
-Unless otherwise specified in game-specific or competition-specific rules, **the majority of each team's starting lineup must consist of Swiss nationals or individuals holding at least a Swiss B residence permit.**
+Unless otherwise specified in game-specific or competition-specific rules, **the majority of each team's starting lineup must consist of Swiss nationals, individuals holding at least a Swiss B residence permit, or citizens/permanent residents of Liechtenstein** (who are considered Swiss for roster purposes).
 
 #### 2.2.2. Foreign Player Exceptions
 
-Non-Swiss players may request exceptions by demonstrating:
+Non-Swiss players may request exceptions (where such exceptions are permitted by game-specific or competition-specific rules) by demonstrating:
 
 - **Minimum twelve (12) months of continuous participation** in Swiss esports community events
 - **Current membership in a recognised Swiss esports organisation**
@@ -174,7 +174,7 @@ Teams may represent organisations subject to the following restrictions:
 #### 2.4.1. Initial Roster Submission
 
 Teams must submit complete rosters before competition commencement, including all substitutes as defined by game-specific rules.
-
+Roster changes during the competition may be allowed in accordance with competition-specific rules.
 #### 2.4.2. Emergency Substitutions
 
 Emergency substitutions require **advance approval from tournament administration** and are permitted only for:
