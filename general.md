@@ -2,7 +2,7 @@
 
 **Revision 2.2**  
 **Last Modified: 23.12.2025**  
-**Effective Date: 01.01.2025**
+**Effective Date: 01.01.2026**
 
 ---
 
