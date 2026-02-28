@@ -50,9 +50,17 @@ The Tournament Administration may grant **special exemptions** to:
 - Teams may use their registered substitute **before a match**.
 - **Emergency substitutes** require prior **admin approval**.
 
-### 2.6 Roster Locks
-- Teams must retain the roster submitted during the **qualifier** (if applicable).
-- After this deadline, all roster changes must follow the official procedure.
+### 2.6 Roster Management
+
+Roster management differs between tournaments/qualifiers and league series:
+
+Changes made to a team's roster do not automatically apply to the running competition; changes are only effective once announced to admins and listed on the official competition page.
+
+**Tournaments and Qualifiers:** Rosters are locked at the start and **no roster changes are permitted** during the tournament or qualifier, except for emergency substitutions. Teams must finalize their roster before the competition starts.
+
+**League Series:** Rosters are managed through the **Substitution Token** system defined in the General Rulebook (Section 2.4.4). Maximum roster size for Rocket League league series is **5 players**. Teams must maintain at least **3 active players** at all times.
+
+For complete details on token allocation, usage, and roster lock deadlines, refer to the General Rulebook Section 2.4.
 
 ---
 

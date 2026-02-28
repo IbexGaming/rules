@@ -31,15 +31,16 @@ For general eligibility, conduct, media, data, prizes, and legal terms, refer to
 - All players must register their **primary Steam accounts** before the tournament.  
 - **Account sharing, smurfing, or multi-teaming is strictly prohibited.**
 
-### 2.3. Substitutions
+### 2.3. Substitutions and Roster Management
 
-#### Pre-Tournament:
-- Substitutes must be declared before the tournament starts.  
-- Emergency substitutes require **admin approval** and are only permitted in serious cases (e.g., health issues, technical failure).
+- Teams must declare all substitutes before competition start.
+- **Emergency substitutions** require prior admin approval in accordance with the General Rulebook (Section 2.4.2).
+Changes made to a team's roster do not automatically apply to the running competition; changes are only effective once announced to admins and listed on the official competition page.
 
-#### In-Tournament:
-- Substitutions between maps are allowed within the roster limits.  
-- **Last-minute substitutions** are only permitted if both the **opponent and admins agree**.
+Roster management differs between tournaments/qualifiers and league series:
+
+- **Tournaments and Qualifiers:** Rosters are locked at the start and no roster changes are permitted during competition, except emergency substitutions approved by admins.
+- **League Series:** Roster changes are governed by the **Substitution Token** system in the General Rulebook (Section 2.4.4).
 
 ---
 

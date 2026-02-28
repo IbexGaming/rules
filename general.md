@@ -174,7 +174,9 @@ Teams may represent organisations subject to the following restrictions:
 #### 2.4.1. Initial Roster Submission
 
 Teams must submit complete rosters before competition commencement, including all substitutes as defined by game-specific rules.
-Roster changes during the competition may be allowed in accordance with competition-specific rules.
+Roster changes during competition are governed by Section 2.4.3 (tournaments/qualifiers roster lock and league series token system).
+Changes to a team's roster on our platform do **not** automatically apply to an ongoing competition. Any roster change must be announced to tournament administration and is only effective once it is officially listed on the relevant **competition page**.
+Roster change announcements must include each affected player's ID. The player's account must contain all required sign-up information for the competition (as required at initial registration); if such information is missing from the account, it must be included in the roster change report.
 #### 2.4.2. Emergency Substitutions
 
 Emergency substitutions require **advance approval from tournament administration** and are permitted only for:
@@ -183,9 +185,43 @@ Emergency substitutions require **advance approval from tournament administratio
 - Unforeseen travel or technical difficulties
 - Other circumstances deemed acceptable by the administration
 
-#### 2.4.3. Roster Locks and Transfer Windows
+#### 2.4.3. Roster Locks, Transfer Windows, and Token System
 
-Competitions may establish **roster lock dates** and **transfer windows** as specified in competition-specific regulations. For teams advancing between competition phases, **only a minority of the active roster may be changed** after qualification, with specific thresholds defined per game.
+**Tournaments and Qualifiers:** Rosters are **locked at the start of the competition** and **no roster changes are permitted during the tournament or qualifier**, except for emergency substitutions with administrator approval (see Section 2.4.2). Teams must finalize their roster before the competition commences.
+
+**League Series:** League play (regular season, playoffs, and final matches) is governed by a **Substitution Token** system described below. Teams advancing to a league phase must adhere to the roster lock deadline, defined as **the last scheduled qualifier date for that season, or the date communicated by tournament administration** if no qualifiers exist.
+
+#### 2.4.4. Substitution Tokens (League Series Only)
+
+**Purpose:** Substitution Tokens allow teams to **add a new player** to the active roster during a league season. Each token can be used either to permanently add a player for the remainder of the season or to temporarily add a player for a single match. Removing a player from the active roster is free and does not require a token.
+
+**Allocation:**
+- **Regular Season:** Each team receives **2 Substitution Tokens**
+- **Playoffs and Final Matches:** Allocation is reduced to a **maximum of 1 token**
+  - Teams that used 1 token in regular season retain 1 for playoffs
+  - Teams that used 2 tokens have no tokens remaining for playoffs
+  - Teams that used 0 tokens enter playoffs with 1 token available
+
+**Usage - Permanent Addition:**
+- **Adding a permanent player** to the active roster costs **1 Substitution Token**
+- The new player joins the active roster for the remainder of the league series (regular season, playoffs, or final matches)
+- Removed or previous players remain on the registered roster and may return via another Substitution Token
+- Once a token is used for permanent addition, it cannot be recovered
+
+**Usage - Temporary Addition:**
+- **Adding a temporary player** for a single match costs **1 Substitution Token**
+- The temporary player plays only that match and does not count toward the normal roster size limit
+- After the match, the roster returns to normal.
+
+**General Usage Rules:**
+- **Removing a player from the active roster is always free** and does not require a token
+- Tokens may be used at any point during their applicable phase (regular season, playoffs, or final/relegation matches)
+- Once a token is used, it cannot be recovered
+- Specific roster size limits are defined in game-specific rulebooks
+
+#### 2.4.5. Emergency Substitutions (Outside Token System)
+
+Emergency substitutions (medical emergencies, technical failures, etc.) are **free and outside the Substitution Token system**. They require **advance approval from tournament administration** and do not consume any tokens (see Section 2.4.2).
 
 ---
 
