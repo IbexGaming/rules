@@ -35,7 +35,7 @@ For general eligibility, conduct, media, data, prizes, and legal terms, refer to
 
 - Teams must declare all substitutes before competition start.
 - **Emergency substitutions** require prior admin approval in accordance with the General Rulebook (Section 2.4.2).
-Changes made to a team's roster do not automatically apply to the running competition; changes are only effective once announced to admins and listed on the official competition page.
+- Changes made to a team's roster do not automatically apply to the running competition; changes are only effective once announced to admins and listed on the official competition page.
 
 Roster management differs between tournaments/qualifiers and league series:
 
@@ -53,7 +53,7 @@ Competition formats, including group stages, playoffs, and qualifiers, are annou
 
 Standard formats may include round-robin groups, elimination brackets, or mixed formats.
 
-For regular season reschedules, teams must announce their intent to reschedule to league administration. After both teams mutually agree on a new date and time, the rescheduled match must be announced at least 48 hours before the new match time to the league administration and must also comply with the General Rulebook rescheduling notice deadline.
+For regular season reschedules, teams must announce their intent to reschedule to league administration. After both teams mutually agree on a new date and time, the rescheduled match must be announced to league administration at least 48 hours before the new match time.
 
 ---
 
