@@ -185,7 +185,21 @@ Emergency substitutions require **advance approval from tournament administratio
 - Unforeseen travel or technical difficulties
 - Other circumstances deemed acceptable by the administration
 
-In exceptional scenarios, tournament administration may approve roster changes outside standard roster restrictions where necessary to protect competitive integrity, fairness, or operational continuity. Such approvals are case-specific, must be documented, and do not create an automatic precedent for future cases.
+In exceptional scenarios, tournament administration may approve case-by-case permanent roster exceptions outside standard roster restrictions only where strict compliance would be impossible or materially unfair due to circumstances such as:
+- Team dissolution or organisational collapse
+- Serious medical emergency with longer-term player unavailability
+- Venue access or travel access failure outside team control
+- Regulatory or legal compliance requirements
+- Comparable force-majeure or administrative events of similar severity
+
+This clause is distinct from Section 2.4.2 emergency substitutions: emergency substitutions remain the primary and first-line mechanism for temporary short-term replacement. Permanent exceptional roster approvals under this clause may be granted only after Section 2.4.2 options are exhausted or demonstrably insufficient, and only with documented approval by the Head Admin or delegated board authority.
+
+All approvals under this clause must:
+- Be documented in writing with factual grounds, scope, and duration
+- Be disclosed to all competing teams within 24 hours
+- Be sent directly to all materially affected teams without delay
+
+Any team directly affected by such approval may file an appeal under Section 8 (Appeals Process), including the filing timelines and procedure set out in Section 8.4. Exceptional approvals are case-specific and do not create automatic precedent.
 
 #### 2.4.3. Roster Locks, Transfer Windows, and Token System
 
@@ -193,7 +207,7 @@ In exceptional scenarios, tournament administration may approve roster changes o
 
 **League Series:** League play (regular season, playoffs, and final matches) is governed by a **Substitution Token** system described below, unless a game-specific rulebook defines an alternative league roster mechanism. Teams advancing to a league phase must adhere to the roster lock deadline, defined as **the last scheduled qualifier date for that season, or the date communicated by tournament administration** if no qualifiers exist.
 
-Where qualification from a qualifier or prior phase grants entry into a subsequent competition phase, the team must retain a majority of players from its qualifying roster, unless a game-specific or competition-specific rule imposes a stricter requirement, or tournament administration grants an exceptional approval under Section 2.4.2.
+Where qualification from a qualifier or prior phase grants entry into a subsequent competition phase, the team must retain a majority of players from its qualifying roster, unless a game-specific or competition-specific rule imposes a stricter requirement, or tournament administration grants an exceptional approval under this clause.
 
 #### 2.4.4. Substitution Tokens (League Series Only)
 
@@ -345,6 +359,8 @@ In Regular Seasons of Leagues, matches may be rescheduled if both teams mutually
 - Matches cannot be played before the start of the competition week (Monday 00:00 Swiss Time)
 - Matches of the first week may be scheduled in the week after, but not before the official start of the season
 
+Matches which are planned to be streamed by the Ibex Gaming League are generally not allowed to be rescheduled.
+
 #### 4.4.2. Rescheduling Process
 
 All rescheduled matches must be announced to the competition administration at least 24 hours before the new match time.
@@ -358,7 +374,6 @@ If teams cannot reach an agreement on rescheduling, the match must be played on 
 In emergency situations (technical issues, medical emergencies, etc.), teams may request last-minute rescheduling by contacting the administration immediately.
 
 Administration reserves the right to deny unreasonable rescheduling requests or those that may compromise the competitive integrity of the tournament. 
-Matches which are planned to be streamed by the Ibex Gaming League are generally not allowed to be rescheduled.
 
 ---
 
