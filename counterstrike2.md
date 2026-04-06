@@ -31,16 +31,20 @@ For general eligibility, conduct, media, data, prizes, and legal terms, refer to
 - All players must register their **primary Steam accounts** before the tournament.  
 - **Account sharing, smurfing, or multi-teaming is strictly prohibited.**
 
-### 2.3. Substitutions
+### 2.3. Substitutions and Roster Management
 
-#### Pre-Tournament:
-- Substitutes must be declared before the tournament starts.  
-- Emergency substitutes require **admin approval** and are only permitted in serious cases (e.g., health issues, technical failure).
+- Teams must declare all substitutes before competition start.
+- **Emergency substitutions** require prior admin approval in accordance with the General Rulebook (Section 2.4.2).
+- Changes made to a team's roster do not automatically apply to the running competition; changes are only effective once announced to admins and listed on the official competition page.
 
-#### In-Tournament:
-- Substitutions between maps are allowed within the roster limits.  
-- **Last-minute substitutions** are only permitted if both the **opponent and admins agree**.
+Roster management differs between tournaments/qualifiers and league series:
 
+- **Tournaments and Qualifiers:** Rosters are locked at the start and no roster changes are permitted during competition, except emergency substitutions approved by admins.
+- **League Series:** Roster changes are governed by the **Substitution Token** system in the General Rulebook (Section 2.4.4), with the following CS2-specific provisions:
+  - Teams receive **2 Substitution Tokens** for the regular season.
+  - At the start of playoffs/relegation-promotion, each team receives a **full refill to 2 Substitution Tokens**.
+  - After the regular season ends, no foreign players may be newly added to a league roster.
+  - Transfers between league teams at the same tier/division (horizontal) or to higher tiers/divisions (upward) are permitted only once per player per season, and only if the player has played in fewer than 3 official league matches for the source team in that season.
 ---
 
 ## 3. CS2 Competition Format
@@ -48,6 +52,8 @@ For general eligibility, conduct, media, data, prizes, and legal terms, refer to
 Competition formats, including group stages, playoffs, and qualifiers, are announced on **[ibexgaming.org](https://ibexgaming.org)** per event.
 
 Standard formats may include round-robin groups, elimination brackets, or mixed formats.
+
+For regular season reschedules, teams must announce their intent to reschedule to league administration. After both teams mutually agree on a new date and time, the rescheduled match must be announced to league administration at least 48 hours before the new match time.
 
 ---
 

@@ -174,7 +174,9 @@ Teams may represent organisations subject to the following restrictions:
 #### 2.4.1. Initial Roster Submission
 
 Teams must submit complete rosters before competition commencement, including all substitutes as defined by game-specific rules.
-Roster changes during the competition may be allowed in accordance with competition-specific rules.
+Roster changes during competition are governed by the applicable provisions of Sections 2.4.2, 2.4.3, and 2.4.5, including emergency substitutions and exceptional permanent roster approvals, tournaments/qualifiers roster locks, the league series token system, and any permitted roster changes outside tokens.
+Changes to a team's roster on our platform do **not** automatically apply to an ongoing competition. Any roster change must be announced to tournament administration and is only effective once it is officially listed on the relevant **competition page**.
+Roster change announcements must include each affected player's ID. The player's account must contain all required sign-up information for the competition (as required at initial registration); if such information is missing from the account, it must be included in the roster change report.
 #### 2.4.2. Emergency Substitutions
 
 Emergency substitutions require **advance approval from tournament administration** and are permitted only for:
@@ -183,9 +185,55 @@ Emergency substitutions require **advance approval from tournament administratio
 - Unforeseen travel or technical difficulties
 - Other circumstances deemed acceptable by the administration
 
-#### 2.4.3. Roster Locks and Transfer Windows
+In exceptional scenarios, tournament administration may approve case-by-case permanent roster exceptions outside standard roster restrictions only where strict compliance would be impossible or materially unfair due to circumstances such as:
+- Team dissolution or organisational collapse
+- Serious medical emergency with longer-term player unavailability
+- Venue access or travel access failure outside team control
+- Regulatory or legal compliance requirements
+- Comparable force-majeure or administrative events of similar severity
 
-Competitions may establish **roster lock dates** and **transfer windows** as specified in competition-specific regulations. For teams advancing between competition phases, **only a minority of the active roster may be changed** after qualification, with specific thresholds defined per game.
+This permanent exception mechanism is distinct from the temporary emergency substitution provisions above: emergency substitutions remain the primary and first-line mechanism for short-term replacement. Permanent exceptional roster approvals under this clause may be granted only after temporary emergency substitution options are exhausted or demonstrably insufficient, and only with documented approval by the Head Admin or delegated board authority.
+
+All approvals under this clause must:
+- Be documented in writing with factual grounds, scope, and duration
+- Be disclosed to all competing teams within 24 hours of the approval
+- Be sent directly to materially affected teams immediately (and in all cases within the 24-hour disclosure period)
+Any team directly affected by such approval may file an appeal under Section 8 (Appeals Process). Exceptional roster approvals under this clause are appealable decisions under Section 8.2 and are subject to the filing timelines and procedure set out in Section 8.4. Exceptional approvals are case-specific and do not create automatic precedent.
+
+#### 2.4.3. Roster Locks, Transfer Windows, and Token System
+
+**Tournaments and Qualifiers:** Rosters are **locked at the start of the competition** and **no roster changes are permitted during the tournament or qualifier**, except for emergency substitutions with administrator approval (see Section 2.4.2). Teams must finalize their roster before the competition commences.
+
+**League Series:** League play (regular season, playoffs, and final matches) is governed by a **Substitution Token** system described below, unless a game-specific rulebook defines an alternative league roster mechanism. Teams advancing to a league phase must adhere to the roster lock deadline, defined as **the last scheduled qualifier date for that season, or the date communicated by tournament administration** if no qualifiers exist.
+
+Where qualification from a qualifier or prior phase grants entry into a subsequent competition phase, the team must retain a majority of players from its qualifying roster, unless a game-specific or competition-specific rule imposes a stricter requirement, or tournament administration grants an exceptional approval under this clause.
+
+#### 2.4.4. Substitution Tokens (League Series Only)
+
+**Purpose:** Substitution Tokens allow teams to **add a new player** to the active roster during a league season. Each token can be used either to permanently add a player for the remainder of the season. Removing a player from the active roster is free and does not require a token.
+
+**Allocation:**
+- **Regular Season:** Each team receives **2 Substitution Tokens**
+- **Playoffs and Final Matches:** Allocation is reduced to a **maximum of 1 token**
+  - Teams that used 1 token in regular season retain 1 for playoffs
+  - Teams that used 2 tokens have no tokens remaining for playoffs
+  - Teams that used 0 tokens enter playoffs with 1 token available
+
+**Usage - Permanent Addition:**
+- **Adding a permanent player** to the active roster costs **1 Substitution Token**
+- The new player joins the active roster for the remainder of the league series (regular season, playoffs, or final matches)
+- Removed or previous players remain on the registered roster and may return via another Substitution Token
+- Once a token is used for permanent addition, it cannot be recovered
+
+**General Usage Rules:**
+- **Removing a player from the active roster is always free** and does not require a token
+- Tokens may be used at any point during their applicable phase (regular season, playoffs, or final/relegation matches)
+- Once a token is used, it cannot be recovered
+- Specific roster size limits are defined in game-specific rulebooks
+
+#### 2.4.5. Emergency Substitutions (Outside Token System)
+
+Emergency substitutions (medical emergencies, technical failures, etc.) are **free and outside the Substitution Token system**. They require **advance approval from tournament administration** and do not consume any tokens (see Section 2.4.2).
 
 ---
 
@@ -304,10 +352,10 @@ In Regular Seasons of Leagues, matches may be rescheduled if both teams mutually
 - Matches generally must be played no later than the officially scheduled date and time
 - Matches cannot be played before the start of the competition week (Monday 00:00 Swiss Time)
 - Matches of the first week may be scheduled in the week after, but not before the official start of the season
-
+- Matches planned to be streamed by the Ibex Gaming League may not be rescheduled, except under the emergency rescheduling provisions in Section 4.4.4.
 #### 4.4.2. Rescheduling Process
 
-All rescheduled matches must be announced to the competition administration at least 48 hours before the new match time.
+All rescheduled matches must be announced to the competition administration at least 24 hours before the new match time.
 
 #### 4.4.3. Rescheduling Limitations
 
@@ -318,7 +366,6 @@ If teams cannot reach an agreement on rescheduling, the match must be played on 
 In emergency situations (technical issues, medical emergencies, etc.), teams may request last-minute rescheduling by contacting the administration immediately.
 
 Administration reserves the right to deny unreasonable rescheduling requests or those that may compromise the competitive integrity of the tournament. 
-Matches which are planned to be streamed by the Ibex Gaming League are generally not allowed to be rescheduled.
 
 ---
 
@@ -565,6 +612,7 @@ The following decisions may be appealed:
 - Prize forfeiture decisions
 - Sanctions based on disputed factual findings
 - Procedural violations in the investigation process
+- Exceptional roster approval decisions under the exceptional-approval provisions of Section 2.4.2 (excluding emergency substitution decisions)
 
 ### 8.3. Non-Appealable Decisions
 

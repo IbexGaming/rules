@@ -35,25 +35,32 @@ By participating, all teams and players agree to:
 ### 2.2 Swiss Residency Requirement
 At least **2 of the 3 playing individuals** must:
 - Hold **Swiss citizenship**, or  
-- Reside in Switzerland and possess at least a **B-permit**.
+- Reside in Switzerland and possess at least a **B-permit**, or
+- Be a citizen or permanent resident of the Principality of Liechtenstein.
 
 ### 2.3 Foreign Player Exceptions
 The Tournament Administration may grant **special exemptions** to:
-- **Residents of the Principality of Liechtenstein**, or  
-- **Players who have participated in at least 3 Swiss Rocket League events within the past 400 days and have been part of the same Swiss esports organisation for more than 3 consecutive months.**
-
+- **Players who have participated in at least 3 Swiss Rocket League events, including at least 1 Swiss offline event, within the past 365 days and are currently representing a Swiss esports organisation.**
 ### 2.4 Account Registration
-- All players must register their **primary Epic Games ID** (and Steam ID, if applicable).
+- - All players must register their **primary game account**.
 - **Account sharing, smurfing, or multi-teaming** is strictly prohibited.
 
 ### 2.5 Substitutions
 - Teams may use their registered substitute **before a match**.
 - **Emergency substitutes** require prior **admin approval**.
 
-### 2.6 Roster Locks
-- Teams must retain the roster submitted during the **qualifier** (if applicable).
-- Up to **two (2) player substitutions** may be made before the **season-specific roster lock deadline**.
-- After this deadline, all roster changes must follow the official procedure.
+### 2.6 Roster Management
+Roster management differs between tournaments/qualifiers and league series:
+
+Changes made to a team's roster do not automatically apply to the running competition; changes are only effective once announced to admins and listed on the official competition page.
+
+**Tournaments and Qualifiers:** Rosters are locked at the start and **no roster changes are permitted** during the tournament or qualifier, except for emergency substitutions. Teams must finalize their roster before the competition starts.
+
+**League Series:** Rocket League does not use the Substitution Token system. Teams may add players during league play up to the maximum roster size defined per competition (e.g., 5 players total, allowing 2 additions beyond the required 3 starters). Teams must maintain the minimum number of players specified at all times.
+
+For league series, each successful player addition consumes one available addition slot up to the maximum roster size. Removing a player does not reopen or create a new addition slot.
+
+For league series, player transfers are only permitted upward to a higher division.
 
 ---
 
@@ -63,18 +70,28 @@ The Tournament Administration may grant **special exemptions** to:
 
 All Rocket League matches in the Ibex Gaming League are played in **3v3 Soccar Mode** using the **Esports Standard Settings**.
 
-### 3.2 Default Arena
+### 3.2 Default Map Rotation
 
-- The default arena is **DFH Stadium (Standard)**.  
+- The default map rotation is:
+    1. Mannfield (Night)
+    2. Forbidden Temple
+    3. DFH Stadium
+    4. Utopia Coliseum (Dusk)
+    5. Sovereign Heights
+    6. Neo Tokyo
+    7. Champions Field
+
+- Maps are selected sequentially from the rotation (game 1 uses map 1, game 2 uses map 2, etc.).
+- If a series extends beyond 7 games, the rotation restarts from map 1.
 - If both teams agree, or if required for performance reasons, other standard arenas may be used.  
-- The Tournament Administration may enforce specific arenas if needed.
+- The Tournament Administration may enforce other specific arenas if needed.
 
 ### 3.3 Game Settings
 
 | Setting          | Value                     |
 |------------------|---------------------------|
 | Game Mode        | Soccar (3v3)              |
-| Arena            | DFH Stadium (default)     |
+| Arena            | Per defined map rotation  |
 | Team Size        | 3v3                       |
 | Bot Difficulty   | No Bots                   |
 | Mutators         | None                      |
@@ -85,9 +102,10 @@ All Rocket League matches in the Ibex Gaming League are played in **3v3 Soccar M
 
 ### 3.4 Lobby Setup & Hosting
 
-- In **regular season**, teams may create their own lobbies if instructed by admins.  
-- For **playoffs and broadcasted matches**, the **Tournament Administration** will host the lobby.  
-- Lobby credentials will be provided shortly before the match.
+- In **regular season**, teams create their own lobbies as instructed by admins.
+- The first team listed on the match page is responsible for hosting the lobby and plays on the blue side.  
+- For **playoffs and broadcasted matches**, the **Tournament Administration** may host the lobby.  
+- Lobby credentials will be provided before the match – all lobbies have to be created with the credentials provided.
 
 ### 3.5 Timeouts (Best-of-7 Only)
 
@@ -103,13 +121,13 @@ All Rocket League matches in the Ibex Gaming League are played in **3v3 Soccar M
 
 ### 4.1 Player Streaming
 
-- Players may stream their **own point-of-view (POV)** gameplay with a **minimum 2-minute delay**.
-- Streams must include **"Ibex Gaming League"** in the title.
-- **Official broadcasts take precedence** over any personal stream. Players must comply with admin instructions regarding media restrictions.
+- Players may stream their **own point-of-view (POV)** gameplay.
+- Streams must include the name of the competition in the title e.g. "Ibex Gaming League | <Division> | <Season>".
+- **Official broadcasts take precedence** over any personal stream. Players must comply with admin instructions regarding media restrictions (e.g. added delay of 2 minutes).
 
 ### 4.2 Voice Channels & Listen-Ins
 
-- All teams must use the **designated Ibex Discord voice channels** during official matches.
+- All teams must use the **designated Discord voice channels** during official matches if requested by the administrators.
 - For streamed matches, **listen-ins** may be used as part of the broadcast unless a team **opts out in advance**.
 - One (1) player per team may be asked to participate in **post-match interviews** during or after official broadcasts.
 
