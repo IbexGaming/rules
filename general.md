@@ -612,7 +612,7 @@ The following decisions may be appealed:
 - Prize forfeiture decisions
 - Sanctions based on disputed factual findings
 - Procedural violations in the investigation process
-- Exceptional roster approvals under Section 2.4.2
+- Exceptional roster approval decisions under the exceptional-approval provisions of Section 2.4.2 (excluding emergency substitution decisions)
 
 ### 8.3. Non-Appealable Decisions
 
