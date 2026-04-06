@@ -44,7 +44,7 @@ Roster management differs between tournaments/qualifiers and league series:
   - Teams receive **2 Substitution Tokens** for the regular season.
   - At the start of playoffs/relegation-promotion, each team receives a **full refill to 2 Substitution Tokens**.
   - After the regular season ends, no foreign players may be newly added to a league roster.
-  - Horizontal and upward transfers between league teams are permitted only once per player per season, and only if the player has played fewer than 3 official league matches for the source team in that season.
+  - Horizontal and upward transfers between league teams are permitted only once per player per season, and only if the player has not yet played in 3 official league matches for the source team in that season.
 
 ---
 
