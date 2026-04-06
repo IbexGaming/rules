@@ -225,11 +225,6 @@ Where qualification from a qualifier or prior phase grants entry into a subseque
 - Removed or previous players remain on the registered roster and may return via another Substitution Token
 - Once a token is used for permanent addition, it cannot be recovered
 
-**Usage - Temporary Addition:**
-- **Adding a temporary player** for a single match costs **1 Substitution Token**
-- The temporary player plays only that match and does not count toward the normal roster size limit
-- After the match, the roster returns to normal.
-
 **General Usage Rules:**
 - **Removing a player from the active roster is always free** and does not require a token
 - Tokens may be used at any point during their applicable phase (regular season, playoffs, or final/relegation matches)
