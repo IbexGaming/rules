@@ -56,7 +56,7 @@ Changes made to a team's roster do not automatically apply to the running compet
 
 **Tournaments and Qualifiers:** Rosters are locked at the start and **no roster changes are permitted** during the tournament or qualifier, except for emergency substitutions. Teams must finalize their roster before the competition starts.
 
-**League Series:** Rocket League does not use the Substitution Token system. Teams may add players during league play up to the maximum roster size defined per competition (e.g., 5 players total, allowing 2 additions beyond the required 3 starters). Teams must maintain the minimum amount of players specified at all times.
+**League Series:** Rocket League does not use the Substitution Token system. Teams may add players during league play up to the maximum roster size defined per competition (e.g., 5 players total, allowing 2 additions beyond the required 3 starters). Teams must maintain the minimum number of players specified at all times.
 
 For league series, each successful player addition consumes one available addition slot up to the maximum roster size. Removing a player does not reopen or create a new addition slot.
 
