@@ -174,7 +174,7 @@ Teams may represent organisations subject to the following restrictions:
 #### 2.4.1. Initial Roster Submission
 
 Teams must submit complete rosters before competition commencement, including all substitutes as defined by game-specific rules.
-Roster changes during competition are governed by Section 2.4.3 (tournaments/qualifiers roster lock and league series token system).
+Roster changes during competition are governed by the applicable provisions of Sections 2.4.2, 2.4.3, and 2.4.5, including emergency substitutions and exceptional permanent roster approvals, tournaments/qualifiers roster locks, the league series token system, and any permitted roster changes outside tokens.
 Changes to a team's roster on our platform do **not** automatically apply to an ongoing competition. Any roster change must be announced to tournament administration and is only effective once it is officially listed on the relevant **competition page**.
 Roster change announcements must include each affected player's ID. The player's account must contain all required sign-up information for the competition (as required at initial registration); if such information is missing from the account, it must be included in the roster change report.
 #### 2.4.2. Emergency Substitutions
