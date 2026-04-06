@@ -72,16 +72,26 @@ All Rocket League matches in the Ibex Gaming League are played in **3v3 Soccar M
 
 ### 3.2 Default Arena
 
-- The default arena is **DFH Stadium (Standard)**.  
+- The default map rotation is:
+    1. Mannfield (Night)
+    2. Forbidden Temple
+    3. DFH Stadium
+    4. Utopia Coliseum (Dusk)
+    5. Sovereign Heights
+    6. Neo Tokyo
+    7. Champions Field
+
+- Maps are selected sequentially from the rotation (game 1 uses map 1, game 2 uses map 2, etc.).
+- If a series extends beyond 7 games, the rotation restarts from map 1.
 - If both teams agree, or if required for performance reasons, other standard arenas may be used.  
-- The Tournament Administration may enforce specific arenas if needed.
+- The Tournament Administration may enforce other specific arenas if needed.
 
 ### 3.3 Game Settings
 
 | Setting          | Value                     |
 |------------------|---------------------------|
 | Game Mode        | Soccar (3v3)              |
-| Arena            | DFH Stadium (unless specified otherwise)     |
+| Arena            | Per defined map rotation  |
 | Team Size        | 3v3                       |
 | Bot Difficulty   | No Bots                   |
 | Mutators         | None                      |
@@ -92,9 +102,10 @@ All Rocket League matches in the Ibex Gaming League are played in **3v3 Soccar M
 
 ### 3.4 Lobby Setup & Hosting
 
-- In **regular season**, teams may create their own lobbies if instructed by admins.  
-- For **playoffs and broadcasted matches**, the **Tournament Administration** will host the lobby.  
-- Lobby credentials will be provided shortly before the match.
+- In **regular season**, teams create their own lobbies as instructed by admins.
+- The first team listed on the match page is responsible to host the lobby and plays on the blue side.  
+- For **playoffs and broadcasted matches**, the **Tournament Administration** may host the lobby.  
+- Lobby credentials will be provided before the match – all lobbies have to be created with the credentials provided.
 
 ### 3.5 Timeouts (Best-of-7 Only)
 
