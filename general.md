@@ -185,11 +185,15 @@ Emergency substitutions require **advance approval from tournament administratio
 - Unforeseen travel or technical difficulties
 - Other circumstances deemed acceptable by the administration
 
+In exceptional scenarios, tournament administration may approve roster changes outside standard roster restrictions where necessary to protect competitive integrity, fairness, or operational continuity. Such approvals are case-specific, must be documented, and do not create an automatic precedent for future cases.
+
 #### 2.4.3. Roster Locks, Transfer Windows, and Token System
 
 **Tournaments and Qualifiers:** Rosters are **locked at the start of the competition** and **no roster changes are permitted during the tournament or qualifier**, except for emergency substitutions with administrator approval (see Section 2.4.2). Teams must finalize their roster before the competition commences.
 
-**League Series:** League play (regular season, playoffs, and final matches) is governed by a **Substitution Token** system described below. Teams advancing to a league phase must adhere to the roster lock deadline, defined as **the last scheduled qualifier date for that season, or the date communicated by tournament administration** if no qualifiers exist.
+**League Series:** League play (regular season, playoffs, and final matches) is governed by a **Substitution Token** system described below, unless a game-specific rulebook defines an alternative league roster mechanism. Teams advancing to a league phase must adhere to the roster lock deadline, defined as **the last scheduled qualifier date for that season, or the date communicated by tournament administration** if no qualifiers exist.
+
+Where qualification from a qualifier or prior phase grants entry into a subsequent competition phase, the team must retain a majority of players from its qualifying roster, unless a game-specific or competition-specific rule imposes a stricter requirement, or tournament administration grants an exceptional approval under Section 2.4.2.
 
 #### 2.4.4. Substitution Tokens (League Series Only)
 
