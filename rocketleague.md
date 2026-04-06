@@ -36,13 +36,13 @@ By participating, all teams and players agree to:
 At least **2 of the 3 playing individuals** must:
 - Hold **Swiss citizenship**, or  
 - Reside in Switzerland and possess at least a **B-permit**, or
-- Either being a citizen or permanent resident of the Principality of Lichtenstein,
+- Be a citizen or permanent resident of the Principality of Liechtenstein.
 
 ### 2.3 Foreign Player Exceptions
 The Tournament Administration may grant **special exemptions** to:
-**Players who have participated in at least 3 Swiss Rocket League events, including at least 1 Swiss offline event, within the past 365 days and are currently representing a Swiss esports organisation.**
+- **Players who have participated in at least 3 Swiss Rocket League events, including at least 1 Swiss offline event, within the past 365 days and are currently representing a Swiss esports organisation.**
 ### 2.4 Account Registration
-- All players must register their **primary Epic Games ID** (and Steam ID, if applicable) or have a username that clearly identifies them (e.g., contains their gamertag or is recognizable to admins).
+- - All players must register their **primary game account**.
 - **Account sharing, smurfing, or multi-teaming** is strictly prohibited.
 
 ### 2.5 Substitutions
@@ -70,7 +70,7 @@ For league series, player transfers are only permitted upward to a higher divisi
 
 All Rocket League matches in the Ibex Gaming League are played in **3v3 Soccar Mode** using the **Esports Standard Settings**.
 
-### 3.2 Default Arena
+### 3.2 Default Map Rotation
 
 - The default map rotation is:
     1. Mannfield (Night)
@@ -103,7 +103,7 @@ All Rocket League matches in the Ibex Gaming League are played in **3v3 Soccar M
 ### 3.4 Lobby Setup & Hosting
 
 - In **regular season**, teams create their own lobbies as instructed by admins.
-- The first team listed on the match page is responsible to host the lobby and plays on the blue side.  
+- The first team listed on the match page is responsible for hosting the lobby and plays on the blue side.  
 - For **playoffs and broadcasted matches**, the **Tournament Administration** may host the lobby.  
 - Lobby credentials will be provided before the match – all lobbies have to be created with the credentials provided.
 
