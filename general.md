@@ -192,14 +192,13 @@ In exceptional scenarios, tournament administration may approve case-by-case per
 - Regulatory or legal compliance requirements
 - Comparable force-majeure or administrative events of similar severity
 
-This clause is distinct from Section 2.4.2 emergency substitutions: emergency substitutions remain the primary and first-line mechanism for temporary short-term replacement. Permanent exceptional roster approvals under this clause may be granted only after Section 2.4.2 options are exhausted or demonstrably insufficient, and only with documented approval by the Head Admin or delegated board authority.
+This permanent exception mechanism is distinct from the temporary emergency substitution provisions above: emergency substitutions remain the primary and first-line mechanism for short-term replacement. Permanent exceptional roster approvals under this clause may be granted only after temporary emergency substitution options are exhausted or demonstrably insufficient, and only with documented approval by the Head Admin or delegated board authority.
 
 All approvals under this clause must:
 - Be documented in writing with factual grounds, scope, and duration
-- Be disclosed to all competing teams within 24 hours
-- Be sent directly to all materially affected teams without delay
-
-Any team directly affected by such approval may file an appeal under Section 8 (Appeals Process), including the filing timelines and procedure set out in Section 8.4. Exceptional approvals are case-specific and do not create automatic precedent.
+- Be disclosed to all competing teams within 24 hours of the approval
+- Be sent directly to materially affected teams immediately (and in all cases within the 24-hour disclosure period)
+Any team directly affected by such approval may file an appeal under Section 8 (Appeals Process). Exceptional roster approvals under this clause are appealable decisions under Section 8.2 and are subject to the filing timelines and procedure set out in Section 8.4. Exceptional approvals are case-specific and do not create automatic precedent.
 
 #### 2.4.3. Roster Locks, Transfer Windows, and Token System
 
@@ -358,9 +357,7 @@ In Regular Seasons of Leagues, matches may be rescheduled if both teams mutually
 - Matches generally must be played no later than the officially scheduled date and time
 - Matches cannot be played before the start of the competition week (Monday 00:00 Swiss Time)
 - Matches of the first week may be scheduled in the week after, but not before the official start of the season
-
-Matches which are planned to be streamed by the Ibex Gaming League are generally not allowed to be rescheduled.
-
+Matches planned to be streamed by the Ibex Gaming League may not be rescheduled, except under the emergency rescheduling provisions in Section 4.4.4.
 #### 4.4.2. Rescheduling Process
 
 All rescheduled matches must be announced to the competition administration at least 24 hours before the new match time.
@@ -620,6 +617,7 @@ The following decisions may be appealed:
 - Prize forfeiture decisions
 - Sanctions based on disputed factual findings
 - Procedural violations in the investigation process
+- Exceptional roster approvals under Section 2.4.2
 
 ### 8.3. Non-Appealable Decisions
 
