@@ -352,7 +352,7 @@ In Regular Seasons of Leagues, matches may be rescheduled if both teams mutually
 - Matches generally must be played no later than the officially scheduled date and time
 - Matches cannot be played before the start of the competition week (Monday 00:00 Swiss Time)
 - Matches of the first week may be scheduled in the week after, but not before the official start of the season
-Matches planned to be streamed by the Ibex Gaming League may not be rescheduled, except under the emergency rescheduling provisions in Section 4.4.4.
+- Matches planned to be streamed by the Ibex Gaming League may not be rescheduled, except under the emergency rescheduling provisions in Section 4.4.4.
 #### 4.4.2. Rescheduling Process
 
 All rescheduled matches must be announced to the competition administration at least 24 hours before the new match time.
