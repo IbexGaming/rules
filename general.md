@@ -210,7 +210,7 @@ Where qualification from a qualifier or prior phase grants entry into a subseque
 
 #### 2.4.4. Substitution Tokens (League Series Only)
 
-**Purpose:** Substitution Tokens allow teams to **add a new player** to the active roster during a league season. Each token can be used either to permanently add a player for the remainder of the season or to temporarily add a player for a single match. Removing a player from the active roster is free and does not require a token.
+**Purpose:** Substitution Tokens allow teams to **add a new player** to the active roster during a league season. Each token can be used either to permanently add a player for the remainder of the season. Removing a player from the active roster is free and does not require a token.
 
 **Allocation:**
 - **Regular Season:** Each team receives **2 Substitution Tokens**
