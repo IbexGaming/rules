@@ -54,6 +54,8 @@ Competition formats, including group stages, playoffs, and qualifiers, are annou
 
 Standard formats may include round-robin groups, elimination brackets, or mixed formats.
 
+For regular season reschedules, teams must announce their intent to reschedule to tournament administration at least 48 hours before the new match time. After both teams confirm the new date and time, the match must also comply with the General Rulebook rescheduling notice deadline.
+
 ---
 
 ## 4. Game Setup & Match Rules
