@@ -40,7 +40,11 @@ Changes made to a team's roster do not automatically apply to the running compet
 Roster management differs between tournaments/qualifiers and league series:
 
 - **Tournaments and Qualifiers:** Rosters are locked at the start and no roster changes are permitted during competition, except emergency substitutions approved by admins.
-- **League Series:** Roster changes are governed by the **Substitution Token** system in the General Rulebook (Section 2.4.4).
+- **League Series:** Roster changes are governed by the **Substitution Token** system in the General Rulebook (Section 2.4.4), with the following CS2-specific provisions:
+  - Teams receive **2 Substitution Tokens** for the regular season.
+  - At the start of playoffs/relegation-promotion, each team receives a **full refill to 2 Substitution Tokens**.
+  - After the regular season ends, no foreign players may be newly added to a league roster.
+  - Horizontal and upward transfers between league teams are permitted only once per player per season, and only if the player has played fewer than 3 official league matches for the source team in that season.
 
 ---
 
