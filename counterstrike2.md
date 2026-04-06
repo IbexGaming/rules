@@ -44,8 +44,7 @@ Roster management differs between tournaments/qualifiers and league series:
   - Teams receive **2 Substitution Tokens** for the regular season.
   - At the start of playoffs/relegation-promotion, each team receives a **full refill to 2 Substitution Tokens**.
   - After the regular season ends, no foreign players may be newly added to a league roster.
-  - Horizontal and upward transfers between league teams are permitted only once per player per season, and only if the player has not yet played in 3 official league matches for the source team in that season.
-
+  - Transfers between league teams at the same tier/division (horizontal) or to higher tiers/divisions (upward) are permitted only once per player per season, and only if the player has played in fewer than 3 official league matches for the source team in that season.
 ---
 
 ## 3. CS2 Competition Format
@@ -54,7 +53,7 @@ Competition formats, including group stages, playoffs, and qualifiers, are annou
 
 Standard formats may include round-robin groups, elimination brackets, or mixed formats.
 
-For regular season reschedules, teams must announce their intent to reschedule to league administration. After both teams mutually agree on a new date and time, the rescheduled match must be announced at least 48 hours before the new match time and must also comply with the General Rulebook rescheduling notice deadline.
+For regular season reschedules, teams must announce their intent to reschedule to league administration. After both teams mutually agree on a new date and time, the rescheduled match must be announced at least 48 hours before the new match time to the league administration and must also comply with the General Rulebook rescheduling notice deadline.
 
 ---
 
