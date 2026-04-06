@@ -1,8 +1,8 @@
 # Counter-Strike 2 Rulebook – Ibex Gaming League
 
-**Revision 2.3**  
-**Last Modified: 18.08.2025**  
-**Effective Date: 20.07.2025**
+**Revision 3.0**  
+**Last Modified: 06.04.2026**  
+**Effective Date: 10.04.2026**
 
 ---
 
