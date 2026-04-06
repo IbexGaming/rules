@@ -43,7 +43,7 @@ The Tournament Administration may grant **special exemptions** to:
 **Players who have participated in at least 3 Swiss Rocket League events, including at least 1 Swiss offline event, within the past 365 days and are part of a Swiss esports organisation.**
 
 ### 2.4 Account Registration
-- All players must register their **primary Epic Games ID** (and Steam ID, if applicable).
+- All players must register their **primary Epic Games ID** (and Steam ID, if applicable) or have a username that resembles their in-game name.
 - **Account sharing, smurfing, or multi-teaming** is strictly prohibited.
 
 ### 2.5 Substitutions
@@ -51,7 +51,6 @@ The Tournament Administration may grant **special exemptions** to:
 - **Emergency substitutes** require prior **admin approval**.
 
 ### 2.6 Roster Management
-
 Roster management differs between tournaments/qualifiers and league series:
 
 Changes made to a team's roster do not automatically apply to the running competition; changes are only effective once announced to admins and listed on the official competition page.
