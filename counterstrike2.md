@@ -1,7 +1,7 @@
 # Counter-Strike 2 Rulebook – Ibex Gaming League
 
 **Revision 3.0**  
-**Last Modified: 06.04.2026**  
+**Last Modified: 08.04.2026**  
 **Effective Date: 10.04.2026**
 
 ---
@@ -81,7 +81,7 @@ The **Active Duty Map Pool** at the time of the event applies. For the 2025 seas
 - Mirage  
 - Nuke  
 - Overpass  
-- Train
+- Anubis
 
 The current map pool is always confirmed on **[ibexgaming.org](https://ibexgaming.org)**.
 
