@@ -85,16 +85,16 @@ Map-type progression follows the sequence above. The first team to reach the req
 ### 3.3 Default Map Pool
 
 - **Control:** Busan, Lijiang Tower, Oasis
-- **Hybrid:** Blizzard World, Midtown, Numbani
-- **Push:** Runasapi, Esperanca
+- **Hybrid:** Blizzard World, Hollywood, King's Row
+- **Push:** Esperança, Runasapi
 - **Flashpoint:** Aatlis, Suravasa
-- **Escort:** Havana, Rialto, Watchpoint: Gibraltar
+- **Escort:** Rialto, Route 66, Watchpoint: Gibraltar
 
 The Tournament Administration may adjust the active map pool for a competition if required by patch changes, technical stability, or competitive integrity.
 
 ### 3.4 Map and Side Selection Principles
 - Unless otherwise announced for the specific event, the opening map is determined by the event procedure.
-- For subsequent maps, the **losing team of the previous map** selects the next map from the next required map type in the series progression.
+- For subsequent maps, the **losing team of the previous map** selects the next map from the next required map type in the series progression. In the event of a draw, the team with the lower seeding shall be granted the right to select the subsequent map.
 - Side selection follows the in-game competitive ruleset and any event-specific admin instructions.
 
 ### 3.5 Lobby Setup & Match Start
