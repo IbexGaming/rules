@@ -1,7 +1,7 @@
 # Overwatch Rulebook – Ibex Gaming League
 
-**Revision 1.0**  
-**Last Modified: 30.04.2026**  
+**Revision 1.1**  
+**Last Modified: 07.05.2026**  
 **Effective Date: 30.04.2026**
 
 ---
@@ -80,7 +80,7 @@ The default map-type progression is:
 	4. Flashpoint
 	5. Escort
 
-Map-type progression follows the sequence above. The first team to reach the required number of map wins wins the series.
+Mode progression follows the sequence above. The first team to reach the required number of map wins wins the series.
 
 ### 3.3 Default Map Pool
 
@@ -94,8 +94,8 @@ The Tournament Administration may adjust the active map pool for a competition i
 
 ### 3.4 Map and Side Selection Principles
 - Unless otherwise announced for the specific event, the opening map is determined by the event procedure.
-- For subsequent maps, the **losing team of the previous map** selects the next map from the next required map type in the series progression. In the event of a draw, the team with the lower seeding shall be granted the right to select the subsequent map.
-- Side selection follows the in-game competitive ruleset and any event-specific admin instructions.
+- For subsequent maps, the **losing team of the previous map** selects the next map from the next required map type in the series progression. In the event of a draw, the team with the lower seeding (listed second on the match page) is granted the right to select the subsequent map.
+- Side selection is granted to the team not choosing the map.
 
 ### 3.5 Lobby Setup & Match Start
 - Teams must be ready before the scheduled match time and follow admin instructions for lobby creation and joining.
